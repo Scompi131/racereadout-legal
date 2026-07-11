@@ -1,5 +1,11 @@
 ---
-title: Race Readout — Privacy Policy
+title: Race Readout — Legal & Support
+---
+
+# Race Readout
+
+**[Support & FAQ](support)** — help, how-to, and contact
+
 ---
 
 # Privacy Policy — Race Readout
